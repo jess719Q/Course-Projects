@@ -1,0 +1,15 @@
+-- How to Compile
+  In "HW3/src/", enter the following command:
+  $ make
+  An executable file "hw3" will be generated in "HW3/bin/".
+  
+  If you want to remove it, please enter the following command:
+  $ make clean
+
+-- How to Run
+
+  Usage:
+  $ ./hw3 <input LEF> <input DEF> <output DEF>
+  
+  E.g., in "HW3/bin/", enter the following command:
+  $ ./hw3 ../testcase/ lef ../testcase/public1.def ../output/public1 def
