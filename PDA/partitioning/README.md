@@ -14,13 +14,13 @@ The implementation focuses on efficient gain updates, scalable data structures, 
 
 
 ## Compile and Run
-  In ```HW2/src/```, enter the following command:
+  In ```src/```, enter the following command:
   
   ```
   make
   ```
   
-  An executable file "hw2" will be generated in ```HW2/bin/```.
+  An executable file "hw2" will be generated in ```bin/```.
   
   If you want to remove it, please enter the following command:
   
