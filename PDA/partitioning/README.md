@@ -20,7 +20,7 @@ The implementation focuses on efficient gain updates, scalable data structures, 
   make
   ```
   
-  An executable file "hw2" will be generated in ```bin/```.
+  An executable file ```hw2``` will be generated in ```bin/```.
   
   If you want to remove it, please enter the following command:
   
